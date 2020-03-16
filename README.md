@@ -3,8 +3,4 @@ Python provides the Tkinter toolkit to develop GUI applications. Here we have to
 
 
 Modules used in the project :
-
-Tkinter  -> GUI toolkit
-time 
-datetime  
-base64   -> Vigenere cipher
+Tkinter  -> GUI toolkit, time datetime, base64   -> Vigenere cipher
